@@ -50,6 +50,11 @@ Com between MCU and Radio in SPI
 - BME680 --- Sensor
 - VEML6040 --- Sensor
 
+Could like like that :
+
+![Exemple moche](https://www.robotroom.com/Robots/Afterthought-Cake/Robot-PCB-cube.jpg)
+
+just a lot less moche !
 
 ### MCU needed features :
 
