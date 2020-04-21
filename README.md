@@ -15,8 +15,8 @@
 -  I2 Cbus as inter-layer bus (SPI vs I2C debate, go !)
 	- Pintout Could be :
 		* I2C (2 pins)
-		* Alim (2*3.3V + 2*GND)
-		* M-CPU to power managmement coms (4*Sig + 2*UART)
+		* Alim (2 3.3V + 2*GND)
+		* M-CPU to power managmement coms (4 Sig + 2 UART)
 	- Put as 2*8 connectors (2*4 pins connectors)
 - Each layer will have the sames pin-out (I2C, Alims, Vbat, and a few others signals) to be able to add as much as needed
 - Main CPU may have Wifi capabilites as first time config channel.
